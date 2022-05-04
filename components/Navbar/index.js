@@ -18,17 +18,17 @@ export default function index() {
           ></div>
         </div>
         <div>
-          <a className="text-white font-body font-normal text-sm leading-6">
+          <a className="text-white cursor-pointer font-body font-normal text-sm leading-6">
             marketplace
           </a>
         </div>
         <div>
-          <a className="text-white font-body font-normal text-sm leading-6">
+          <a className="text-white cursor-pointer font-body font-normal text-sm leading-6">
             Resources
           </a>
         </div>
         <div>
-          <a className="text-white font-body font-normal text-sm leading-6">
+          <a className="text-white cursor-pointer font-body font-normal text-sm leading-6">
             stat
           </a>
         </div>
